@@ -1,0 +1,15 @@
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\desafioprojetohospedagem\bin\Debug\net6.0\desafioprojetohospedagem.exe
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\desafioprojetohospedagem\bin\Debug\net6.0\desafioprojetohospedagem.deps.json
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\desafioprojetohospedagem\bin\Debug\net6.0\desafioprojetohospedagem.runtimeconfig.json
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\desafioprojetohospedagem\bin\Debug\net6.0\desafioprojetohospedagem.dll
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\desafioprojetohospedagem\bin\Debug\net6.0\desafioprojetohospedagem.pdb
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\desafioprojetohospedagem\obj\Debug\net6.0\desafioprojetohospedagem.csproj.AssemblyReference.cache
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\desafioprojetohospedagem\obj\Debug\net6.0\desafioprojetohospedagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\desafioprojetohospedagem\obj\Debug\net6.0\desafioprojetohospedagem.AssemblyInfoInputs.cache
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\desafioprojetohospedagem\obj\Debug\net6.0\desafioprojetohospedagem.AssemblyInfo.cs
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\desafioprojetohospedagem\obj\Debug\net6.0\desafioprojetohospedagem.csproj.CoreCompileInputs.cache
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\desafioprojetohospedagem\obj\Debug\net6.0\desafioprojetohospedagem.dll
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\desafioprojetohospedagem\obj\Debug\net6.0\refint\desafioprojetohospedagem.dll
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\desafioprojetohospedagem\obj\Debug\net6.0\desafioprojetohospedagem.pdb
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\desafioprojetohospedagem\obj\Debug\net6.0\desafioprojetohospedagem.genruntimeconfig.cache
+D:\Documentos\Tecnologia Informacao\DIO\workspace\DOTNET\desafioprojetohospedagem\obj\Debug\net6.0\ref\desafioprojetohospedagem.dll
